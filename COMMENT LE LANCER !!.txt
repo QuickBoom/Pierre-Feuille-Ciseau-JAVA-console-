@@ -1,0 +1,6 @@
+Windows + R
+CMD.exe
+entrée
+
+cd Desktop
+java -jar test.jar
